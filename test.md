@@ -46,10 +46,13 @@ Setelah berhasil menginstal Docker Desktop, buka terminal dan jalankan docker --
 Jika kita belum memiliki ID Docker, maka melakukan langkah-langkah ini 
 
 1. Kunjungi halaman mendaftar Docker Hub, https://hub.docker.com/signup .
+
 2. Isi formulir dan kirim untuk membuat ID Docker.
 
 ![image](https://github.com/reyhanfernanda/UAS-tcc-175610078/blob/master/gambar-18.png)
+
 3. Verifikasi alamat email kita untuk menyelesaikan proses pendaftaran.
+
 4. setlah itu login menggunakan ID Docker dan kata sandi kita yang baru. Setelah kita berhasil mengautentikasi, maka docker sudah siap digunakan
 
 # Create a Docker Hub repository and push image
