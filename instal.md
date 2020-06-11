@@ -12,4 +12,5 @@
 ![image](https://github.com/reyhanfernanda/UAS-tcc-175610078/blob/master/gambar-04.png)
 
 5. setelah dilakukan restart maka akan muncul tampilan seperti ini
+
 ![image](https://github.com/reyhanfernanda/UAS-tcc-175610078/blob/master/gambar-05.png)
